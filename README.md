@@ -9,3 +9,5 @@
 ## [GBM Classifier Techniques](https://colab.research.google.com/drive/1Jitdakb0JpeSALDOzJItjgSgZHL6nqBA?usp=sharing)
 ## [Gradient Boost Regression Techniques](https://colab.research.google.com/drive/1f_4Hk0BCf--oy_s4KEv5iuRueL8lZXV2?usp=sharing)
 ## [Gradient Boost Ranking Techniques](https://colab.research.google.com/drive/1HfM3_XpiWKRswv-bd2lho5MdIdhsX7sW?usp=sharing)
+
+# [Video Playlist](https://www.youtube.com/playlist?list=PLbA83Of28IML5iAcyrUskN-7OYwSjOQiJ)
